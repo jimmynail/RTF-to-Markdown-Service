@@ -1,5 +1,5 @@
 # RTF-to-Markdown-Service
-An Applescript workflow to convert rtf files to markdown, and keep the original file's creatio and modification dates.
+An Applescript workflow to convert rtf files to markdown, and keep the original file's creation and modification dates.
 
 
 I wrote this to convert rtf files to plain markdown. I take tons of notes, have done for years. My archives are in RTF. Now I use markdown.
