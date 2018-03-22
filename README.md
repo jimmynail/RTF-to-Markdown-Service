@@ -2,9 +2,9 @@
 An Applescript workflow to convert rtf files to markdown, and keep the original file's creation and modification dates.
 
 
-I wrote this to convert rtf files to plain markdown. I take tons of notes, have done for years. My archives are in RTF. Now I use markdown.
+I wrote this to convert rtf files to markdown. I take tons of notes, have done for years. My archives are in rtf, now I use markdown.
 
-Update: Got changed this so only converts to plain text. Textutil's conversion was problematic. For my uses, best results just going to plain text.
+_Update:_ Changed this so it only converts to plain text. Textutil's markdown conversion was problematic. For my uses, best results just going to plain text.
 
 All the complexity here is around updating the modifcation and creation dates in the newly created files so that they match the old files.
 
